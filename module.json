@@ -46,9 +46,9 @@
     "manifest": "https://raw.githubusercontent.com/aljames-arctic/fvtt-module-popout/master/module.json",
     "download": "https://github.com/aljames-arctic/fvtt-module-popout/zipball/master",
     "bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout/issues",
-	"license": "UNLICENSED",
-	"compatibility": {
+    "license": "UNLICENSED",
+    "compatibility": {
         "minimum": "0.8.0",
         "verified": "10.284"
-	},
+	}
 }
